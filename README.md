@@ -8,7 +8,7 @@
 
 Как это выглядит: 
 
-![KeyLanmpVideo](img\KeyLamp.gif)
+![KeyLanmpVideo](img/KeyLamp.gif)
 
 Проект включает следующие компоненты:
 
